@@ -1,2 +1,2 @@
 # Geometry-tool
-UP kursov proekt geometry tool
+Introduction to programming in FMI project
